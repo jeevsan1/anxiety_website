@@ -51,7 +51,6 @@ user-select: none; /* Standard */
   justify-items:center;
   align-items: center;
   font-size: 4vh;
-  font-family: 'Nunito', sans-serif;
   background-image:url('https://static.psycom.net/wp-content/uploads/2020/08/what-is-anxiety-illustration.jpg') ;
   background-size: cover;
   padding-left: 2vh;
@@ -70,7 +69,6 @@ user-select: none; /* Standard */
   width: 30vh;
   padding-top:2vh ;
   padding-bottom: 2vh;
-  font-family: 'Nunito', sans-serif;
   background-color:darkblue;
   padding-left: 2vh;
   justify-items:center;
@@ -86,7 +84,6 @@ user-select: none; /* Standard */
   width: 30vh;
   padding-top:2vh ;
   padding-bottom: 2vh;
-  font-family: 'Nunito', sans-serif;
   background-color:midnightblue;
   padding-left: 2vh;
   justify-items:center;
@@ -102,7 +99,6 @@ user-select: none; /* Standard */
   text-align: center;
   background-color:#859793;
   color: #DADED4;
-  font-family: 'Nunito', sans-serif;
   border-radius: 8px;
   margin-top: 3vh;
   margin-left: 2vh;
@@ -117,7 +113,6 @@ user-select: none; /* Standard */
   text-align: center;
   background-color:#66716F;
   color: #DADED4;
-  font-family: 'Nunito', sans-serif;
   border-radius: 8px;
   margin-top: 3vh;
   margin-left: 2vh;
@@ -135,7 +130,6 @@ user-select: none; /* Standard */
   text-align: center;
   background-color:#918597 ;
   color: #DADED4;
-  font-family: 'Nunito', sans-serif;
   border-radius: 8px;
   margin-top: 3vh;
   margin-left: 2vh;
@@ -150,7 +144,6 @@ user-select: none; /* Standard */
   text-align: center;
   background-color:#625B66;
   color: #DADED4;
-  font-family: 'Nunito', sans-serif;
   border-radius: 8px;
   margin-top: 3vh;
   margin-left: 2vh;
@@ -167,7 +160,6 @@ user-select: none; /* Standard */
   text-align: center;
   background-color:#665B5E ;
   color: #DADED4;
-  font-family: 'Nunito', sans-serif;
   border-radius: 8px;
   margin-top: 3vh;
   margin-left: 2vh;
@@ -182,7 +174,6 @@ user-select: none; /* Standard */
   text-align: center;
   background-color:#342E30;
   color: #DADED4;
-  font-family: 'Nunito', sans-serif;
   border-radius: 8px;
   margin-top: 3vh;
   margin-left: 2vh;
@@ -200,7 +191,6 @@ user-select: none; /* Standard */
   text-align: center;
   background-color:#6C7563  ;
   color: #DADED4;
-  font-family: 'Nunito', sans-serif;
   border-radius: 8px;
   margin-top: 3vh;
   margin-left: 2vh;
@@ -215,7 +205,6 @@ user-select: none; /* Standard */
   text-align: center;
   background-color:#31352D;
   color: #DADED4;
-  font-family: 'Nunito', sans-serif;
   border-radius: 8px;
   margin-top: 3vh;
   margin-left: 2vh;
@@ -241,7 +230,6 @@ user-select: none; /* Standard */
   justify-items:center;
   align-items: center;
   font-size: 3vh;
-  font-family: 'Nunito', sans-serif;
   background-color:#A3BCB6;
   padding-left: 2vh;
   display: flex;
@@ -259,7 +247,6 @@ user-select: none; /* Standard */
   width: 100%;
   padding-top:2vh ;
   padding-bottom: 2vh;
-  font-family: 'Nunito', sans-serif;
   background-color:steelblue;
   padding-left: 2vh;
   justify-items:center;
@@ -275,7 +262,6 @@ user-select: none; /* Standard */
   width: 30vh;
   padding-top:2vh ;
   padding-bottom: 2vh;
-  font-family: 'Nunito', sans-serif;
   background-color:darkblue;
   padding-left: 2vh;
   justify-items:center;
@@ -292,7 +278,6 @@ user-select: none; /* Standard */
   width: 30vh;
   padding-top:2vh ;
   padding-bottom: 2vh;
-  font-family: 'Nunito', sans-serif;
   background-color:midnightblue;
   padding-left: 2vh;
   justify-items:center;
@@ -315,7 +300,6 @@ user-select: none; /* Standard */
   width: 80%;
   padding-top:2vh ;
   padding-bottom: 2vh;
-  font-family: 'Nunito', sans-serif;
   background-color:steelblue;
   padding-left: 2vh;
   justify-items:center;
@@ -331,7 +315,6 @@ user-select: none; /* Standard */
   width: 30vh;
   padding-top:2vh ;
   padding-bottom: 2vh;
-  font-family: 'Nunito', sans-serif;
   background-color:darkblue;
   padding-left: 2vh;
   justify-items:center;
@@ -348,7 +331,6 @@ user-select: none; /* Standard */
   width: 30vh;
   padding-top:2vh ;
   padding-bottom: 2vh;
-  font-family: 'Nunito', sans-serif;
   background-color:midnightblue;
   padding-left: 2vh;
   justify-items:center;
@@ -380,7 +362,6 @@ user-select: none; /* Standard */
 }
 .what_is_anxiety{
   margin-top: 2vh;
-  font-family: 'Nunito', sans-serif;
   background-color:#A3BCB6;
   padding-left: 2vh;
   color:whitesmoke;
@@ -388,7 +369,6 @@ user-select: none; /* Standard */
 }
 .anxiety_disorder{
   margin-top: 2vh;
-  font-family: 'Nunito', sans-serif;
   background-color:#A3BCB6;
   padding-left: 2vh;
   color:whitesmoke;
