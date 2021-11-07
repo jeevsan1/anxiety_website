@@ -18,7 +18,7 @@ const anxiety_disorder = () => {
         <Image src="img(3).jpg" alt="Anxiety" />
         </div>
         <div className={Style.Link}>
-                <Links href="/">Click to go home</Links>
+                <Links href="/">Click to go home </Links>
         </div>
         </>  
         </div>
