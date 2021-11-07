@@ -17,7 +17,7 @@ const anxiety_treatment = () => {
                 <li>Medications- Certain Antidepressants</li>              
                 </ul></h1>
             <h1><a href="pdf.pdf" download className={Style.Link}>Download</a> a free pdf for Coping skills with Anxiety!</h1>
-        <img src="img(5).jpg" alt="Anxiety"></img>
+        <Image src="img(5).jpg" alt="Anxiety"></Image>
         </div>
         <div className={Style.Link}>
                 <Link href="/" className="animate__animated animate__bounce">Click to go home</Link>
