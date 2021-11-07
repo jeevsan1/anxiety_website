@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import Styles from '../styles/Layout.module.css'
-import Link from 'next/head'
+import Link from 'next/link'
 import 'animate.css';
 import Image from 'next/image'
 export default function Home() {
