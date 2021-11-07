@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Link from 'next/link'
 import Style from '../styles/Layout.module.css'
+import Image from 'next/dist/client/image'
 
 const anxiety_treatment = () => {
     return (
@@ -19,7 +20,7 @@ const anxiety_treatment = () => {
         <img src="img(5).jpg" alt="Anxiety"></img>
         </div>
         <div className={Style.Link}>
-                <a href="/" class="animate__animated animate__bounce">Click to go home</a>
+                <Link href="/" className="animate__animated animate__bounce">Click to go home</Link>
         </div>   
         
         </>

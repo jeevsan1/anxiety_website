@@ -12,7 +12,7 @@ const Layout = ({children}) => {
         </head>
         <div className={styles.Container}>
             <main className={styles.Main}>
-            <h1 className={styles.header} ><a href="/">StopAnxiety</a></h1>
+            <h1 className={styles.header} ><Link href="/">StopAnxiety</Link></h1>
                 {children}
             </main>
         </div>
