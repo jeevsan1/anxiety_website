@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import Links from 'next/link'
+import Link from 'next/link'
 import Style from "../styles/Layout.module.css"
 import Image from 'next/image'
 const anxiety_disorder = () => {
@@ -18,7 +18,7 @@ const anxiety_disorder = () => {
         <Image src="img(3).jpg" alt="Anxiety" />
         </div>
         <div className={Style.Link}>
-                <Links href="/">Click to go home</Links>
+                <Link href="/">Click to go home </Link>
         </div>
         </>  
         </div>
